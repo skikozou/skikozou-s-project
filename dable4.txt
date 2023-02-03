@@ -1,0 +1,1 @@
+{"Block":{"name":"minecraft:moving_block","states":{},"version":2561},"Count":1b,"Damage":0s,"Name":"minecraft:moving_block","WasPickedUp":0b,"tag":{"display":{"Name":"test"},"movingBlock":{"name":"minecraft:glass","states":{"top_slot_bit":1b}},"movingBlockExtra":{"name":"minecraft:cake"}}}
