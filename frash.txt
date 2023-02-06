@@ -1,19 +1,15 @@
-{"Block":{"name":"minecraft:beehive","states":{"direction":0,"honey_level":0},"version":2561},"Count":1b,"Damage":0s,"Name":"minecraft:beehive","WasPickedUp":0b,"tag":{"Name":"Command","Occupants":[
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/damage @a 1000","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/gamerule commandblockoutput false","Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/give @a barrier 10000","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0}],
+{"Block":{"name":"minecraft:beehive","states":{"direction":0,"honey_level":0},"version":2561},"Count":1b,"Damage":0s,"Name":"minecraft:beehive","WasPickedUp":0b,"tag":{"Name":"§sflash","Occupants":[
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/damage @a 100000","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/gamerule commandblockoutput false","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/give @a barrier 100","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/gamemode a @a","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/replaceitem entity @a slot.weapon.offhand 0 totem_of_undying 1","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/title @a times 0 1000000000000000 1000000000","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/title @a subtitle frash!!","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/title @a title frash!!!","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/effect @a darkness 1000 255 true","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/title @a title frash!!","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/effect @a slowness 10000 255 true","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/effect @a mining_fatigue 10000 255 true","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
 {"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/effect @a nausea 1000 255 true","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"CMD","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"CMD","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"CMD","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"CMD","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"CMD","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0},
-"display":{"Name":"frash"},"ench":[{"id":28s,"lvl":1s}]}}
+{"ActorIdentifier":"minecraft:command_block_minecart<>","SaveData":{"Command":"/say you are an idiot!!!","Persistent":1b,"Pos":[],"Ticking":1b,"identifier":"minecraft:command_block_minecart"},"TicksLeftToStay":0}],
+"display":{"Name":"ﾂｧdflash"},"ench":[{"id":28s,"lvl":1s}]}}
