@@ -1,0 +1,17 @@
+C:\Users\kiich\source\repos\000\000\bin\Debug\net6.0-windows\000.exe
+C:\Users\kiich\source\repos\000\000\bin\Debug\net6.0-windows\000.deps.json
+C:\Users\kiich\source\repos\000\000\bin\Debug\net6.0-windows\000.runtimeconfig.json
+C:\Users\kiich\source\repos\000\000\bin\Debug\net6.0-windows\000.dll
+C:\Users\kiich\source\repos\000\000\bin\Debug\net6.0-windows\000.pdb
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.csproj.AssemblyReference.cache
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\_000.Form1.resources
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.csproj.GenerateResource.cache
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.AssemblyInfoInputs.cache
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.AssemblyInfo.cs
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.csproj.CoreCompileInputs.cache
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.dll
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\refint\000.dll
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.pdb
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\000.genruntimeconfig.cache
+C:\Users\kiich\source\repos\000\000\obj\Debug\net6.0-windows\ref\000.dll
